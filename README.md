@@ -1,6 +1,6 @@
 # Hi, I'm Saineeth Togrikar!
 
-I'm a passionate **Full-Stack Developer** with 8+ years of experience in backend development and **Freelancer** focused on building clean, responsive, and dynamic web applications. I enjoy working on modern web technologies, backend systems, and AI/NLP projects.
+I'm a passionate **Full-Stack Developer** with 8+ years of experience in backend development focused on building clean, responsive, and dynamic web applications. I enjoy working on modern web technologies, backend systems, and AI/NLP projects.
 
 ---
 
