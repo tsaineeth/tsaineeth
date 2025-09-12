@@ -29,6 +29,7 @@ I'm a passionate **Full-Stack Developer** with 8+ years of experience in backend
 ## Featured Projects
 
 - [Saineeth's Portfolio Website](https://tsaineeth.github.io/Portfolio/)
+- [Weather App](https://github.com/tsaineeth/weather-app)
 - College Event Management System (Flask, MySQL)
 
 ---
@@ -47,8 +48,6 @@ I'm a passionate **Full-Stack Developer** with 8+ years of experience in backend
 ---
 
 ## Connect With Me
-
-[//]: # ([![Email Badge]&#40;https://img.shields.io/badge/Email-tsaineeth@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&#41;]&#40;mailto:tsaineeth@gmail.com&#41;)
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-tsaineeth-181717?style=flat-square&logo=github)](https://github.com/tsaineeth)
 
