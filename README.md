@@ -1,59 +1,69 @@
-# Hi, I'm Saineeth Togrikar!
+# Saineeth Togrikar
 
-I'm a passionate **Full-Stack Developer** with 8+ years of experience in backend development focused on building clean, responsive, and dynamic web applications. I enjoy working on modern web technologies, backend systems, and AI/NLP projects.
+Technical Lead with 8+ years of experience designing and building scalable backend systems using Python.
 
----
+My work focuses on distributed systems, API design, database architecture, cloud-native applications, and building reliable software for production environments.
 
-## About Me
-
-- Currently building my personal portfolio - [Check it out!](https://tsaineeth.github.io/Portfolio/)
-- Learning **LLMs**
-- Open-source contributor, clean UI/UX enthusiast
+This GitHub contains production oriented projects, reference implementations and experiments in backend engineering, system design and AI.
 
 ---
 
-## Tech Stack
+## Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Languages**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
+**Backend**
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#) [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+
+**AI**
+
+[![Anthropic](https://img.shields.io/badge/Anthropic-141210?style=flat-square&logo=anthropic&logoColor=white)](#) [![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)](#)
+
+**Databases**
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](#) [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+
+**Cloud & DevOps**
+
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+
+
+---
+
+## Areas of Interest
+
+- Backend Engineering
+- Distributed Systems
+- System Design
+- API Design
+- Database Design and Optimization
+- Performance Engineering
+- Cloud Native Applications
+- AI Powered Backend Systems
+- Open Source
 
 ---
 
 ## Featured Projects
 
-- [Saineeth's Portfolio Website](https://tsaineeth.github.io/Portfolio/)
-- [Weather App](https://github.com/tsaineeth/weather-app)
-- College Event Management System (Flask, MySQL)
-
 ---
 
-## GitHub Stats
+## Open Source
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tsaineeth&show_icons=true&theme=material-palenight" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsaineeth&theme=material-palenight" alt="GitHub Streak" width="450"/>
-</p>
+I'm interested in contributing to open source projects focused on backend engineering, developer tooling, distributed systems and AI infrastructure.
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsaineeth&layout=compact&theme=material-palenight" alt="Top Languages" width="450"/>
-</p>
+Contributions and collaborations are always welcome.
 
----
+--- 
 
 ## Connect With Me
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-tsaineeth-181717?style=flat-square&logo=github)](https://github.com/tsaineeth)
+[![LinkedIn Badge](https://img.shields.io/badge/Saineeth%20Togrikar-LinkedIn-blue?style=flate&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/saineeth-togrikar-a00b73139)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Saineeth%20Togrikar-blue?style=flat-square&logo=linkedin)](https://in.linkedin.com/in/saineeth-togrikar-a00b73139)
-
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-tsaineeth.github.io-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://tsaineeth.github.io/Portfolio/)
+[![Portfolio Badge](https://img.shields.io/badge/Saineeth%20Togrikar-Portfolio-white?style=flat&logoColor=white)](https://tsaineeth.github.io/Portfolio/)
 
 ![Visitors Badge](https://komarev.com/ghpvc/?username=tsaineeth&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge)
----
+
