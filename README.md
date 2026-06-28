@@ -63,7 +63,7 @@ Contributions and collaborations are always welcome.
 
 [![LinkedIn Badge](https://img.shields.io/badge/Saineeth%20Togrikar-LinkedIn-blue?style=flate&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/saineeth-togrikar-a00b73139)
 
-[![Portfolio Badge](https://img.shields.io/badge/Saineeth%20Togrikar-Portfolio-white?style=flat&logoColor=white)](https://tsaineeth.github.io/Portfolio/)
+[![Portfolio Badge](https://img.shields.io/badge/Saineeth%20Togrikar-Portfolio-white?style=flat&logoColor=white)](https://tsaineeth.github.io/portfolio)
 
 ![Visitors Badge](https://komarev.com/ghpvc/?username=tsaineeth&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge)
 
